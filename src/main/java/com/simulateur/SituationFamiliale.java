@@ -1,4 +1,4 @@
-package com.simulateur;
+package main.java.com.simulateur;
 
 public enum SituationFamiliale {
     CELIBATAIRE,

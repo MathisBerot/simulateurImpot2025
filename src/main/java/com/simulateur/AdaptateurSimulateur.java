@@ -1,4 +1,4 @@
-package com.simulateur;
+package main.java.com.simulateur;
 
 public class AdaptateurSimulateur implements ICalculateurImpot {
 

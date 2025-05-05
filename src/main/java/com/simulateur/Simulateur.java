@@ -1,25 +1,4 @@
-package com.simulateur;
-
-/**
- *  Cette classe permet de simuler le calcul de l'impôt sur le revenu
- *  en France pour l'année 2024 sur les revenus de l'année 2023 pour
- *  des cas simples de contribuables célibataires, mariés, divorcés, veufs
- *  ou pacsés avec ou sans enfants à charge ou enfants en situation de handicap
- *  et parent isolé.
- *
- *  EXEMPLE DE CODE DE TRES MAUVAISE QUALITE FAIT PAR UN DEBUTANT
- *
- *  Pas de lisibilité, pas de commentaires, pas de tests
- *  Pas de documentation, pas de gestion des erreurs
- *  Pas de logique métier, pas de modularité
- *  Pas de gestion des exceptions, pas de gestion des logs
- *  Principe "Single Responsability" non respecté
- *  Pas de traçabilité vers les exigences métier
- *
- *  Pourtant ce code fonctionne correctement
- *  Il s'agit d'un "legacy" code qui est difficile à maintenir
- *  L'auteur n'a pas fourni de tests unitaires
- **/
+package main.java.com.simulateur;
 
 public class Simulateur {
 
