@@ -8,3 +8,5 @@ Ce projet est un **simulateur d'impôt sur le revenu** basé sur les règles fis
 - Calcul de l’impôt net selon les tranches
 - Cas limites et tests de robustesse
 - Chargement de cas variés depuis un fichier CSV
+
+  Réalisé par Bérot Mathis et Fortin Lukas
